@@ -21,7 +21,7 @@ Real-time KPIs: The dashboard automatically updates KPIs based on filter selecti
 
 ## Dashboard Preview
 
-![Chocolate Sales Dashboard](Chocolates_Sales_Dashboard.JPG)
+![Chocolate Sales Dashboard](Chocolcates%20Sales%20Dashboard.JPG)
 
 How to Use:
 Open the Chocolate Sales Dashboard file in Power BI.
